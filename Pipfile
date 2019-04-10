@@ -9,7 +9,7 @@ name = "pypi"
 coverage = "*"
 # Select the appropreate ones for development. These must match up.
 Django = ">=2.0,<2.3"
-django-pyodbc-azure = { git = "https://github.com/mes3yd/django-pyodbc-azure.git", ref = "1.11.15.1" }
+# django-pyodbc-azure = { git = "https://github.com/mes3yd/django-pyodbc-azure.git", ref = "1.11.15.1" }
 # django-pyodbc-azure = { git = "https://github.com/mes3yd/django-pyodbc-azure.git", ref = "2.0.8.1" }
 # django-pyodbc-azure = ">=2.1.0.0"
 "flake8" = "*"
